@@ -1,4 +1,4 @@
-# quranapp
+# TunesApp
 
 A new Flutter project.
 
